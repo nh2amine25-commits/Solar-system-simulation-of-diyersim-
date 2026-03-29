@@ -1,0 +1,5 @@
+{
+  "name": "Celestial Mechanics Lab",
+  "description": "An interactive gravity simulator exploring Newton's and Kepler's laws through real-time physics visualization.",
+  "requestFramePermissions": []
+}
